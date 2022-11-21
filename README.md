@@ -18,8 +18,6 @@
 <a href="https://www.hackerrank.com/nghiask2018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nghiask2018" height="30" width="40" /></a>
 </p>
 
-<br>
-
 ## 🔥 *Skills* 🔥
 
 <h3 align="left"> 🔠 <code>Programming Languages</code> :</h3>
@@ -67,7 +65,6 @@
 <p align="left">
 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40px" alt="github" title="Github"/>
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
 </p>
 
